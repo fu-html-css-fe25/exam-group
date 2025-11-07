@@ -29,6 +29,16 @@ För att få godkänt ska ni:
 
 - Sidan har en max-bredd på 1000px.
 
+## Handledning
+
+Ni kommer att ha handledning vid följande tillfället:
+
+* Måndag 9:00-16:00 (Jesper)
+* Onsdag 9:00-16:00 (Rachel)
+* Torsdag 13:00-16:00 (Rachel)
+
+Under onsdagen vill jag att ALLA grupper bokar in minst ett handledningspass med Rachel (ni skriver i handledningskanalen vilken tid ni vill ha), där ni alla dyker upp tillsammans.
+
 ## Inlämning
 
 Inlämning sker senast via Azomo den 14/11 kl 23:59. Varje person i gruppen skall lämna in en länk till repot ni jobbat i. Om ni skapat ett privat repo (vilket jag inte rekommenderar) så MÅSTE ni bjuda in mig som collaborator.
