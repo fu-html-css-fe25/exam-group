@@ -14,11 +14,10 @@ För att få godkänt ska ni:
 - använda CSS Grid
 - använda Flexbox
 - implementera sidan enligt design (samma fonter, font-storlekar, färger mm.)
-- Använda enbart en CSS-fil
 - En gruppmedlem skall lägga upp projektet på github och resterande klona ner det och göra minst en ändring var som pushas upp och syns på GitHub
 - Inte ha använt er av mer än 2 div:ar per HTML-dokument
 - använda god programmering tillsammans med media queries för att göra sidan responsiv
-- skapa HTML och CSS som utan fel går igenom [HTML Validator](https://validator.w3.org/) och [CSS Validator](https://jigsaw.w3.org/css-validator/)
+- skapa HTML och CSS som utan fel kan valideras i [HTML Validator](https://validator.w3.org/) och [CSS Validator](https://jigsaw.w3.org/css-validator/)
 
 [Länk till figma-skissen](https://www.figma.com/file/Hbrk29Q2rVzXiXcFWdTXDA/planned-planthood?type=design&node-id=0%3A1&mode=design&t=9CHtB0GGoxLhWLYf-1)
 
