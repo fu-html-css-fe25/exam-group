@@ -42,7 +42,7 @@ Under onsdagen vill jag att ALLA grupper bokar in minst ett handledningspass med
 
 ## Inlämning
 
-Inlämning sker senast via Azomo den 14/11 kl 23:59. Varje person i gruppen skall lämna in en länk till repot ni jobbat i. Om ni skapat ett privat repo (vilket jag inte rekommenderar) så MÅSTE ni bjuda in mig som collaborator.
+Inlämning sker senast via Azomo den 14/11 kl 23:59. Varje person i gruppen skall lämna in en länk till repot ni jobbat i. Om ni skapat ett privat repo så MÅSTE ni bjuda in mig som collaborator.
 
 ## Övrigt
 
