@@ -10,7 +10,7 @@ Kunden är ett kollektiv som har en stor gemensam kolonilott på innergården oc
 
 För att få godkänt ska ni:
 
-- skapa upp både sida 1 och 2, som man kan navigera sig mellan från menyn ()
+- skapa upp både sida 1 och 2, som man kan navigera sig mellan från menyn
 - använda CSS Grid
 - använda Flexbox
 - implementera sidan enligt design (samma fonter, font-storlekar, färger mm.)
@@ -24,6 +24,7 @@ För att få godkänt ska ni:
 ## Ni behöver inte:
 
 - skapa flera media queries! I Figmaskissen har ni endast 2 skärmstorleker och det är dessa två lägen jag är ute efter. Er mobilvariant bör fungera mellan 390px upp till 600px, och er desktop bör se bra ut på 990px och uppåt.
+- skapa en fungerande hamburgermeny i mobilläge
 
 ## Specifikationer
 
